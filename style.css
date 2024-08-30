@@ -1,0 +1,15 @@
+b{
+font-size: 40px;
+text-align: center;
+font-family: cursive;
+color: blueviolet;
+padding: 1%;
+}
+p{
+    text-align: justify;
+}
+
+body {
+    background-image: url(https://web.facebook.com/photo/?fbid=409228001359458&set=a.409227964692795);
+    background-color: pink;
+}
